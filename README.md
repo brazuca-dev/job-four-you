@@ -19,13 +19,13 @@ Siga o passo a passo de como instalar o projeto na sua máquina.
 1. **Clone o projeto do github**
 
   ```bash
-    $ git clone -b main https://github.com/BrazucaDeveloper/job-four-you.git
+    $ git clone -b main https://github.com/brazuca-dev/job-four-you.git
   ```
 
 2. **Entre na pasta do projeto**
   
   ```bash
-    $ cd ./Etb-Tcc
+    $ cd ./job-four-you
   ```
 
 ## 🚀 Como iniciar o projeto
@@ -67,4 +67,4 @@ Siga o passo a passo de como instalar o projeto na sua máquina.
 - [🎨 Allana](https://github.com/leitielly) (Desenvolvedora front-end)
 - [✍️ Aline](https://github.com/alineop120) (Analista de sistemas)
 - [🏅 Giovanna](https://github.com/giihzinha0L70) (Analista de sistemas)
-- [🎲 Ítalo](https://github.com/ItaloBrazucaDeveloper) (Desenvolvedor full-stack | DBA)
+- [🎲 Ítalo](https://github.com/brazuca-dev) (Desenvolvedor full-stack | DBA)
